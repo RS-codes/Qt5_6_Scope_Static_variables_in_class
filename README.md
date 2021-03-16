@@ -2,5 +2,5 @@
 
 SourceCode added
 
-scope 
+Discussed Scope, 
 static variables
