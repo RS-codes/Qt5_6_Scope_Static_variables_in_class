@@ -3,4 +3,4 @@
 SourceCode added
 
 Discussed Scope, 
-static variables
+static variables in class
