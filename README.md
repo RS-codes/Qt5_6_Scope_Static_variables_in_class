@@ -2,5 +2,4 @@
 
 SourceCode added
 
-Discussed Scope, 
-static variables in class
+Discussed Scope and static variables in class
